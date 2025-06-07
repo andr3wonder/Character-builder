@@ -1,4 +1,4 @@
-# Character Chat App
+# Character Builder
 
 A simple and clean character AI chat application that lets you create custom AI characters and have conversations with them.
 
